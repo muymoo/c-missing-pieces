@@ -1,4 +1,7 @@
 // bower:scss
+@import "bower_components/inuit-functions/_tools.functions.scss";
+@import "bower_components/inuit-defaults/_settings.defaults.scss";
+@import "bower_components/inuit-buttons/_objects.buttons.scss";
 // endbower
 
 @import "bower_components/inuit-defaults/settings.defaults";
@@ -10,3 +13,8 @@
 @import "bower_components/inuit-box-sizing/generic.box-sizing";
 
 @import "bower_components/inuit-page/base.page";
+
+@import "bower_components/inuit-buttons/objects.buttons";
+
+$inuit-btn-radius: 3px;
+@import "components.button-raised";

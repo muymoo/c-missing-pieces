@@ -1,0 +1,12 @@
+$btn--raised-radius: 10px !default;
+
+.btn--raised {
+	background: linear-gradient(white, gray);
+	border-radius: $btn--raised-radius;
+	border-color: gray;
+	color: black;
+
+	&:hover {
+		background: linear-gradient(gray, white);
+	}
+}

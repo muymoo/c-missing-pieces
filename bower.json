@@ -2,6 +2,7 @@
   "name": "c-missing-pieces",
   "private": true,
   "dependencies": {
-    "inuit-starter-kit": "~0.2.9"
+    "inuit-starter-kit": "~0.2.9",
+    "inuit-buttons": "~0.4.2"
   }
 }
