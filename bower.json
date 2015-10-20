@@ -1,0 +1,7 @@
+{
+  "name": "c-missing-pieces",
+  "private": true,
+  "dependencies": {
+    "inuit-starter-kit": "~0.2.9"
+  }
+}
